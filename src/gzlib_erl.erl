@@ -1,4 +1,4 @@
--module(gleam_zlib_erl).
+-module(gzlib_erl).
 
 -export([compress/2]).
 
